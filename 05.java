@@ -58,7 +58,7 @@ int getExam3(){
 	
 	public static void main(String[] args){
 		try{
-		Student s1=new Student("Atheeka",75,150,90);
+		Student s1=new Student("Atheeka",75,100,90);
 	    System.out.println("Student Name is: "+s1.getName()+"  exam score  is " +s1.getExam1());
 			    System.out.println("Student Name is: "+s1.getName()+"  exam score  is " +s1.getExam2());
 	    System.out.println("Student Name is: "+s1.getName()+"  exam score  is " +s1.getExam3());
